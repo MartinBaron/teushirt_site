@@ -8,7 +8,6 @@ Authors: robrob
 Summary: la page d'accueil de teushirt
 URL:
 save_as: index.html
-
 ## ***Teushirt***, d'abord, c'est une teuche sur un t-shirt.
  
 #***Teushirt***, ensuite, c'est la fusion de deux bonnes idées :
@@ -19,9 +18,6 @@ save_as: index.html
 
 ####✨ ***Teushirt***, enfin, c'est ça : un t-shirt de récup en super état, des chutes de tissus divers et variés, un peu de couture et beaucoup d'imagination.
 
-###[Je veux en savoir plus !]({filename}/pages/concept.md)
-
-#### ***Teushirt***, d'abord, c'est une teuche sur un t-shirt. 
-### ***Teushirt***, d'abord, c'est une teuche sur un t-shirt. 
-## ***Teushirt***, d'abord, c'est une teuche sur un t-shirt. 
-# ***Teushirt***, d'abord, c'est une teuche sur un t-shirt.
+###[je veux en savoir plus !]({filename}/pages/concept.md)
+###_contact_ : teushirt@tutanota.com
+###pour les news : [insta](https://instagram.com)

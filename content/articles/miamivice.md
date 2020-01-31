@@ -6,6 +6,7 @@ Tags: pelican, publishing
 Slug: miamivice
 Authors: robrob
 Summary: Teushirt miamivice
+Featured_image: template_img_teushirt.jpg
 
 # miamivice
 ![Alt Text]({static}/images/template_img_teushirt.jpg)
