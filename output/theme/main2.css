@@ -13,12 +13,12 @@
 @import url("reset.css");
 @import url("pygment.css");
 @import url("typogrify.css");
-@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
+/*@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);*/
 
-/*@font-face { 
+@font-face { 
     font-family: "Bryant";
     src: url('bryant-regularalt.ttf');
-}*/
+}
 
 /***** Global *****/
 /* Body */
@@ -38,7 +38,7 @@
 
 /* Body without groove line*/
 body {
-  	background-image:url('../img/ASSET2.png');
+  /* 	background-image:url('../img/ASSET2.png');*/
   	background-repeat: no-repeat;
     background-attachment:fixed;
     background-position: center top;
@@ -53,8 +53,8 @@ body {
 
 /* Headings */
 h1 {font-size: 2em; 
-/*font-family: 'Permanent Marker';*/ }
-h2 {font-size: 3em;/*font-family: 'Permanent Marker';*/}	/* 22px */
+/*font-family: 'Permanent Marker'; }*/
+h2 {font-size: 3em;}	/* 22px */
 h3 {font-size: 1.429em}	/* 20px */
 h4 {font-size: 1.286em}	/* 18px */
 h5 {font-size: 1.143em}	/* 16px */
@@ -477,7 +477,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 #content > .hentry {padding: 1em 0;}
 .hentry img{display : none ;}
-.entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 100px;}
+.entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 20px;}
 .entry-title a:link, .entry-title a:visited {text-decoration: none; color: #333;}
 .entry-title a:visited {background-color: #fff;}
 

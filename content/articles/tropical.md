@@ -1,11 +1,11 @@
-Title: miamivice
+Title: tropical
 Date: 2010-12-03 10:20
 Modified: 2010-12-05 19:30
 Category: articles
 Tags: pelican, publishing
-Slug: miamivice
+Slug: tropical
 Authors: robrob
 Summary: Short version for index and feeds
 
-# miamivice
+# tropical
 ![Alt Text]({static}/images/test.png)

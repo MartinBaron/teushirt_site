@@ -4,22 +4,22 @@ from __future__ import unicode_literals
 
 AUTHOR = 'martinbaron'
 SITENAME = 'teushirt'
-SITEURL = 'http://teushirt.org'
+SITEURL = '.'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr'
-
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-#ARTICLE_PATHS = ['gallerie']
-
+ARTICLE_PATHS = ['articles',]
+ARTICLE_URL = 'articles/{slug}.html'
+ARTICLE_SAVE_AS = 'articles/{slug}.html'
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
@@ -34,4 +34,7 @@ DEFAULT_PAGINATION = False
 PLUGIN_PATHS = []
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+#URL:
+#save_as: index.html
