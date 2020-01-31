@@ -1,11 +1,11 @@
-Title: miamivice
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Title: Teushirt miamivice
+Date: 2019-11-01 00:00
+Modified: 2019-11-01 00:00
 Category: articles
 Tags: pelican, publishing
 Slug: miamivice
 Authors: robrob
-Summary: Short version for index and feeds
+Summary: Teushirt miamivice
 
 # miamivice
-![Alt Text]({static}/images/test.png)
+![Alt Text]({static}/images/template_img_teushirt.jpg)
