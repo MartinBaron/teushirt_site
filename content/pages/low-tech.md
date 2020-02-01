@@ -6,6 +6,8 @@ Tags: pelican, publishing
 Slug: low-tech
 Authors: robrob
 Summary: la page qui explique pourquoi la démarche low-tech
-status: hidden
+Status: hidden
+Size: 100kb
+
 
 # LOW-TECH

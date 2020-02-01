@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /*
 	Name: Smashing HTML5
 	Date: July 2009
@@ -6,7 +8,6 @@
 	Author: Enrique Ramírez
 	Autor URI: http://enrique-ramirez.com
 */
-@charset "UTF-8";
 
 
 /* Imports 
@@ -85,13 +86,21 @@ hr {
 	border-bottom: 1px solid #DDD; 
 }
 
+#low-tech-site a{
+	color: black;
+	background-color: #FAEC33;
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    font-size: 1.5rem;
+}
 
 /*IMG*/
 
 
 /* Anchors */
 a {outline: 0;}
-a img {border: 0px; text-decoration: none;}
+
 a:link, a:visited {
 	color: #443ED4;
 	padding: 0 1px;
@@ -146,13 +155,36 @@ em, i {font-style: italic;}
 /* Lists */
 ul {
 	list-style: outside disc;
-	margin: 1em 0 1.5em 1.5em;
+	padding: 1em;
 }
 
 ol {
 	list-style: outside decimal;
 	margin: 1em 0 1.5em 1.5em;
 }
+
+.featured-img{
+	background-color: #FDFDFD;
+	width: 90%;
+	}
+.featured-img a:hover{
+	background-color: #FDFDFD;
+	width: 90%;
+	opacity : 0.5;
+	}
+.cat, li.cat {
+	/*.featured-img, p.img {
+		background-color: #FDFDFD;
+		width: 40%;
+	}*/
+	.category {
+		color: #FDFDFD
+	}
+	.category-cat{
+		display: block;
+	}
+}
+
 
 #featured .post-info, article:not(.hentry) .entry-content .post-info {
     margin:5px;
@@ -179,11 +211,10 @@ ol {
 
 .page-size{
     color: black;
-    color: 
-    black;
+background-color: #FAEC33;
     position: fixed;
     bottom: 5px;
-    font-size: .8rem;
+    font-size: 1.5rem;
 }
 
 #sharing-tools 
@@ -255,8 +286,8 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 #banner {
 	margin: 0 auto;
 	padding: 0 0 0 0;
-	background: linear-gradient(160deg, rgb(255, 219, 255) 0%, rgb(255, 219, 255) 25%, rgb(255, 255, 255) 100%);
-	padding-bottom: 1rem;
+	background: linear-gradient(180deg, rgb(255, 219, 255) 0%, rgb(255, 219, 255) 25%, rgb(255, 255, 255) 80%, rgb(255, 255, 255) 100%);
+	padding-bottom: 1.7rem;
     border-bottom: 2px solid black;
 }
 
@@ -374,36 +405,36 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	}
 
 .subtitle {
-
     font-size: 1.2em;
 	}
-}
+
 /*
 	GALLERIE
 *****************/
-/*.description p {
+.description {
 	display: block;
-	font-size: 3em
+	font-size: 2em;
 	font-weight: bold;
-}*/
+}
 .cols {
 	list-style-type: none;
 	width: 100%;
 	display: flex;
-	flex-direction : column;
-	justify-content: center;
-	li {
-		max-width: 25%;
-		padding: 2*$pad 2*$pad 2*$pad 0;
-	}
-	li:nth-child(4n) {
+	flex-wrap: wrap;
+
+	/*li:nth-child(4n) {
 		padding-right: 0;
 	}
 	time {
 		margin-top: 0.5*$pad;
-	}
-}
 
+	}*/
+}
+	.cols	li {
+		max-width: 25%;
+		padding-bottom: 2em;
+	}
+.cols time{font-size: 1.5em;color: #ADADAD;}
 
 /*
 	Featured
@@ -463,11 +494,10 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
  #page-size{
     color: black;
-    color: 
-    black;
+    background-color: #FAEC33;
     position: fixed;
     bottom: 5px;
-    font-size: .8rem;
+    font-size: 1.5rem;
 }
 /*
 	Extras
@@ -556,7 +586,19 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 /*
 	Footer
 *****************/
-#contentinfo {padding-bottom: 2em; text-align: right;}
+#contentinfo { text-align: right;}
+
+footer li{
+
+			width: 25%;
+	
+}
+footer#content-info {
+    border-top: 2px solid 
+    black;
+    padding: .5rem 0;
+    overflow: auto;
+}
 
 /***** Sections *****/
 /* Blog */
@@ -569,52 +611,13 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 #content > .hentry {padding: 1em 0;}
 .hentry img{display : none ;}
-.entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 100px;}
+.entry-title {font-size: 3em; margin: auto;}
 .entry-title a:link, .entry-title a:visited {text-decoration: none; color: #333;}
 .entry-title a:visited {background-color: #fff;}
 
-footer + p:first-letter {
-	font-size: 3em;
-	float: left;
-	height:1em;
-	margin-top: -.2em;
-	padding: 0;
-}
 
-.hentry .post-info * {font-style: normal;}
 
-	/* Content */
-	.hentry footer 
-	{
-		width: 150px;
-		margin: 0 2em 1em 0;
-		padding: 5px;
-		background: rgba(255,255,255,.5);
-		box-shadow: 0 0 8px #FFF ;
-	}
-	footer .tag
-	{
-		padding-left: 16px;
-		background: url('../img/tag.png') no-repeat left center;
-	}
-	.hentry footer address {display: inline;}
-	.henthy .comment {
-		margin-left: 0;
-	}
-	#posts-list footer address {display: block;}
 
-	/* Blog Index */
-	#posts-list {list-style: none; margin: 0;}
-	#posts-list .hentry {position: relative;}
-	
-	#posts-list footer {
-		left: 10px;
-		position: relative;
-        float: left;
-		top: 0.5em;
-		width: 190px;
-	}
-	
 	/* About the Author */
 	#about-author {
 		background: #f9f9f9;
@@ -637,6 +640,186 @@ footer + p:first-letter {
 	
 	#about-author .photo {border: 1px solid #ddd; float: left; margin: 5px 1em 0 0;}
 	
+
+
+
+
+/*
+MEDIA QUERIES
+*/
+@media screen and (max-width: 1100px) {
+	.cols li {
+		max-width: 50%;
+		&:nth-child(2n){
+			padding-right: 0;
+		}
+	}
+	.cover li:nth-child(2){
+		flex: 1;
+	}
+	.cover li {
+		max-width: 50%;
+		.featured-img{
+			height: 300px;
+			background-size: auto 140%;
+		}
+	}
+	.featured-img {
+			background-size: 120%;
+	}
+}
+
+@media screen and (max-width: 890px) {
+	#menu-s {
+		display: block;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		margin-top: .25rem;
+		&:hover {
+			cursor: pointer;
+			color: $color_sub;
+		}
+	}
+
+	#menu-list {
+		height: 0;
+		overflow: hidden;
+		transition: height 300ms ease-in-out;
+	}
+
+	#menu-list.show {
+		height: 240px;
+	}
+
+	#menu {
+		ul {
+			display: block;
+		}
+		li {
+			display: block;
+			margin: $pad 0;
+		}
+		li::after, li:last-child::after{
+			content: "";
+		}
+		li.social {
+			margin-left: -.25rem;
+		}
+	}
+	footer .cols li {
+		width: 50%;
+	}
+}
+
+
+@media screen and (max-width: 666px) {
+	h1 {
+		font-size: 2rem;
+	}
+#low-tech-site a{
+	color: black;
+	background-color: #FAEC33;
+    bottom: 5px;
+    right: 5px;
+    font-size: 1.5rem;
+    position: relative;
+    top : -5px;
+}
+.page-size{
+    color: black;
+background-color: #FAEC33;
+    bottom: 5px;
+    left: 5px;
+    font-size: 1.5rem;
+        position: relative;
+
+}
+
+#page-size{
+    color: black;
+background-color: #FAEC33;
+    bottom: 5px;
+    left: 5px;
+    font-size: 1.5rem;
+        position: relative;
+
+}
+	.top h1 {
+		font-size:2rem;
+	}
+
+	.cols.cover {
+		flex-direction: column-reverse;
+	}
+
+	.cover li, .cover li:nth-child(2) {
+		width: 100%;
+		padding: 0;
+	}
+
+	.cols li {
+		max-width: 100%;
+		padding-right: 0;
+	}
+
+	footer .cols li {
+		width: 100%;
+	}
+
+	.button {
+		width: 100%;
+	}
+
+	.entry-content {
+		h2 {
+			font-size: 1.5rem;
+			margin-left: 0;
+		}
+		h3 {
+			margin-left: 0;
+		}
+		p, ul, ol, h5 {
+			width: 100%;
+		}
+	}
+
+	.footnote {
+		width: 100%;
+	}
+
+	#archive {
+		li:hover{
+			border-color: transparent;
+		}
+		.dl, .dl-label {
+			display: none;
+		}
+		#date, #title, #cat {
+			width: 33%;
+		}
+		.category, .entry-title, time {
+			float: none;
+			width: 100%;
+			padding-right: 0;
+			margin: 5px 0;
+		}
+		time, .category {
+			font-size: $font_s;
+		}
+	}
+	dt, dd {
+		padding: 0;
+	}
+
+	dt {
+		border-bottom: 0;
+		width: 100%;
+		float: none;
+	}
+}
+
+
+
 	/* Comments */
 	#comments-list {list-style: none; margin: 0 1em;}
 	#comments-list blockquote {

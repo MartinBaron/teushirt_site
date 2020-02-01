@@ -6,18 +6,17 @@ Tags: pelican, publishing
 Slug: accueil
 Authors: robrob
 Summary: la page d'accueil de teushirt
+Size: 100kb
 URL:
 save_as: index.html
-## ***Teushirt***, d'abord, c'est une teuche sur un t-shirt.
+## ***teushirt***, d'abord, c'est une teuche sur un t-shirt.
  
-#***Teushirt***, ensuite, c'est la fusion de deux bonnes idées :
+#***teushirt***, ensuite, c'est la fusion de deux bonnes idées :
 
 ####👕 la première, c'est qu'on peut avoir des fringues cool sans acheter de neuf, et ainsi éviter de participer à la 3ème industrie la plus polluante sur notre planète : l'industrie de la mode.
 
 ####🍑 la deuxième, c'est que pour lutter contre l'obscurantisme de la représentation de l'anatomie féminine, rien de tel que de la montrer haut et fort. 
 
-####✨ ***Teushirt***, enfin, c'est ça : un t-shirt de récup en super état, des chutes de tissus divers et variés, un peu de couture et beaucoup d'imagination.
+####✨ ***teushirt***, enfin, c'est ça : un t-shirt de récup en super état, des chutes de tissus divers et variés, un peu de couture et beaucoup d'imagination.
 
-###[je veux en savoir plus !]({filename}/pages/concept.md)
-###_contact_ : teushirt@tutanota.com
-###pour les news : [insta](https://instagram.com)
+#####[je veux en savoir plus !]({filename}/pages/concept.md)

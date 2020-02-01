@@ -6,6 +6,8 @@ Tags: pelican, publishing
 Slug: concept
 Authors: robrob
 Summary: la page qui explique teushirt
+Size: 100kb
+
 
 ### ***Teushirt*** naît lors d'une soirée.
 Robin doit y jouer un dj-set féministe, et pour l'occasion, il se fabrique un haut un peu spécial : à partir d'un vieux tshirt et de chutes de tissus, il coud en patchwork le premier teushirt. Lors de la dite soirée, il est marqué par deux réactions : "j'en veux un !" et "t'as un vagin sur ton tshirt ?". Elles lui font prendre conscience que d'un, l'anatomie féminine, systématiquement cachée dans l'espace public, est l'objet d'un certain obscurantisme. On voit à peu près comment c'est fait un sexe féminin mais ça reste un peu flou : les vulves sont souvent prises pour des vagins. Et de deux, que certaines personnes sont prêtes à arborer fièrement ce motif sur leurs vêtements et, en reproduisant ainsi l'image du sexe féminin dans l'espace public, à contrebalancer la sur-représentation de l'appareil génital masculin dans nos quotidiens. 
@@ -31,6 +33,6 @@ Avec Alexandra, couturière, ils.elles décident de développer le concept avec 
 ![Low-tech]({static}/images/test.png#right)Aujourd'hui, vendre des vêtements, ça commence toujours par Instagram, et ça finit toujours par des sites web très energivores : animations dynamiques, photos en haute qualité, achat en ligne... Le traffic internet augmente de 50% par an, et contribue aujourd'hui à 12% de l'énergie consommée au niveau mondial. Personne ou presque ne sait comment un smartphone ou même internet fonctionnent, et les GAFAS orchestrent sans vergogne une "profilation" qui ferait frémir Orwell. Bref, à l'heure où la mode s'émerveille devant l'essayage de vêtement en ligne via l'usage de la vidéo et de l'intelligence artificielle, nous voulons montrer qu'un autre internet est possible. Un internet low-tech, c'est à dire durable, accessible et adapté. C'est pourquoi nous limitons l'usage d'Instagram à la communication évenentielle, et que nous avons construit un site web low-tech. Très léger, il est environ 150 fois moins lourd qu'un site de mode traditionnel. Il ne comporte pas d'affichage dynamique, très gourmand en ressource, et peut être consulté sur des vieilles machines, sans ADSL. Très facile à construire, il se base sur le tutoriel mis en open source par low-tech magazine. Adapté, il informe sur le projet et présente les modèles de ***teushirt*** via un design minimaliste et efficace. [Plus d'infos ici.]({filename}/pages/low-tech.md)
 
 
-#[Je veux voir !]({filename}/pages/gallerie.md)
+#####[Je veux voir !]({static}/category/articles.html)
 
-#[Je veux un ***teushirt*** !]({filename}/pages/contact.md)
+#####[Je veux un ***teushirt*** !]({static}/pages/contact.md)

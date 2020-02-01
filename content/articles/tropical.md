@@ -6,6 +6,8 @@ Tags: pelican, publishing
 Slug: tropical
 Authors: robrob
 Summary: Teushirt tropical
+Featured_image: images/template_img_teushirt.jpg
+Size: 100kb
 
 # tropical
 ![Alt Text]({static}/images/template_img_teushirt.jpg)
