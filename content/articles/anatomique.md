@@ -6,8 +6,8 @@ Tags: pelican, publishing
 Slug: anatomique
 Authors: robrob
 Summary: Teushirt anatomique
-Featured_image: images/template_img_teushirt.jpg
+Featured_image: images/test_dither_2.png
 
 
 # anatomique
-![Alt Text]({static}/images/template_img_teushirt.jpg)
+![Alt Text]({static}/original_images/test_2_original.png)
