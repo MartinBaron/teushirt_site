@@ -446,7 +446,7 @@ img.acc,figure.acc {float: right;}
 		max-width: 25%;
 		padding-bottom: 2em;
 	}
-.cols time{font-size: 1.5em;color: #ADADAD;}
+time{font-size: 1.5em;color: #ADADAD;}
 
 /*
 	Featured
@@ -662,6 +662,7 @@ MEDIA QUERIES
 @media screen and (max-width: 1100px) {
 	.cols li {
 		max-width: 100%;
+		margin:2em;
 		&:nth-child(2n){
 			padding-right: 0;
 		}
@@ -678,6 +679,8 @@ MEDIA QUERIES
 	}
 	.featured-img {
 			background-size: 120%;
+			width:800px;
+			height:auto;
 	}
 
 	#banner h1 {
@@ -694,6 +697,10 @@ MEDIA QUERIES
     color: 
     #ADADAD;
 }
+p img{width:800px;
+height:auto;
+margin: -0.8em;}
+
 p img[src*="#acc"]  {
 	height:1000px;
 	width: auto;
@@ -708,6 +715,12 @@ p img[src*="#right"]  {
 
 }
 p img[src*="#left"]  {
+	width:100%;
+	margin: auto;
+	/*margin-right : 1em;*/
+	float: none;
+}
+ img[src*="#gallerie"]  {
 	width:100%;
 	margin: auto;
 	/*margin-right : 1em;*/

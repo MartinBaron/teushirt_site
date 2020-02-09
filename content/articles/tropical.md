@@ -1,13 +1,13 @@
 Title: Teushirt tropical
 Date: 2019-10-01 00:00
-Modified: 2010-12-05 19:30
+Modified: 2019-10-01 00:00
 Category: articles
 Tags: pelican, publishing
 Slug: tropical
 Authors: robrob
 Summary: Teushirt tropical
-Featured_image: images/template_img_teushirt.jpg
+Featured_image: images/dithers/tropical.png
 Size: 100kb
 
-# tropical
-![Alt Text]({static}/images/template_img_teushirt.jpg)
+![Alt Text]({static}/original_images/tropical_original.png)
+### _tropical

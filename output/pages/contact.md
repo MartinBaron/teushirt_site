@@ -10,8 +10,8 @@ Size: 100kb
 
 
 ##Tu veux un *teushirt* ? 
+![Neuf]({static}/images/dithers/atelier_janvier.png#right)
 ###3 possibilités s'offrent à toi :
-
 #####🛎 passe une commande  [>15€]
 Envoie un mail avec ta taille à l'adresse suivante : [teushirt@tutanota.com](mailto:teushirt@tutanota.com)
 <br>Le prix est libre au-delà de 15euros. On te tient au courant de la date où ce sera prêt :)

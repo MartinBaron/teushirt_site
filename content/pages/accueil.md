@@ -6,7 +6,7 @@ Tags: pelican, publishing
 Slug: accueil
 Authors: robrob
 Summary: la page d'accueil de teushirt
-Size: 100kb
+Size: 850ko
 URL:
 save_as: index.html
 ## ***teushirt***, d'abord, c'est une teuche sur un t-shirt.

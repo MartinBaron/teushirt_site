@@ -6,8 +6,7 @@ Tags: pelican, publishing
 Slug: zen
 Authors: robrob
 Summary: Teushirt zen
-Featured_image: images/template_img_teushirt.jpg
+Featured_image: images/dithers/zen.png
 
-
-# zen
-![Alt Text]({static}/images/template_img_teushirt.jpg)
+![Alt Text]({static}/original_images/zen_original.png)
+### _zen

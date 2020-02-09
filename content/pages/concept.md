@@ -6,7 +6,7 @@ Tags: pelican, publishing
 Slug: concept
 Authors: robrob
 Summary: la page qui explique teushirt
-Size: 100kb
+Size: 606ko
 
 
 ### ***Teushirt*** naît lors d'une soirée.

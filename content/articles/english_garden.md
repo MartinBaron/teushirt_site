@@ -6,8 +6,7 @@ Tags: pelican, publishing
 Slug: english_garden
 Authors: robrob
 Summary: Teushirt english_garden
-Featured_image: images/template_img_teushirt.jpg
+Featured_image: images/dithers/english_garden.png
 
-
-# english_garden
-![Alt Text]({static}/images/template_img_teushirt.jpg)
+![Alt Text]({static}/original_images/english_garden_2_original.png)
+### _english_garden

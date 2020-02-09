@@ -6,5 +6,6 @@ Tags: pelican, publishing
 Slug: assos
 Authors: robrob
 Summary: la page qui présente les assos
+Size: 20ko
 
-### On aide qui ?
+### page en construction :)

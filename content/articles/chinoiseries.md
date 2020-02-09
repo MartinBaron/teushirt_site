@@ -6,8 +6,8 @@ Tags: pelican, publishing
 Slug: chinoiseries
 Authors: robrob
 Summary: Teushirt chinoiseries
-Featured_image: images/template_img_teushirt.jpg
+Featured_image: images/dithers/chinoiseries_2.png
 
 
-# chinoiseries
-![Alt Text]({static}/images/template_img_teushirt.jpg)
+![Alt Text]({static}/original_images/chinoiseries_original.png#gallerie)
+### _chinoiseries
