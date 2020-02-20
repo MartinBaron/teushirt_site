@@ -6,7 +6,7 @@ Tags: pelican, publishing
 Slug: contact
 Authors: robrob
 Summary: la page qui donne les contacts
-Size: 100kb
+Size: 220ko
 
 
 ##Tu veux un *teushirt* ? 

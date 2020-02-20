@@ -22,13 +22,19 @@ Avec Alexandra, couturière, ils.elles décident de développer le concept avec 
 ##### Un vieux tshirt tout neuf
 En 2019, la mode est la deuxième industrie la plus polluante juste après l'industrie pétro-chimique. Emissions de CO2, utilisation intensive d'eau douce, pollutions des sols, conditions de travail inhumaines... L'industrie textile collectionne les tares. La faute au neuf ? Une étude britannique estime que tous les ans, chaque anglais met en moyenne 30kg de textile à la benne. <br>A La Petite Rockette avec qui nous travaillons dans le 11ème arrondissement de Paris, entre 1 et 2 tonnes de dons de vêtements arrivent chaque jour. Parmis cette montagne de textile, de nombreux tshirts unis sont en très bon état, et des tas de chutes de tissus divers et variés sont sélectionnés. Les ***teushirts*** sont fabriqués entièrement à partir de ces matériaux récupérés. Il évitent la production de vêtements neufs et donnent une nouvelle vie à du textile mis sur la touche.
 <br>
+<br>
+<br>
+![Business]({static}/images/dithers/picsou.png#left)
 #####Business is business ?
-![Business]({static}/images/dithers/picsou.png#left)<br><br>***Teushirt*** est une organisation non lucrative. La production est assurée tout d'abord par Alexandra et Robin de manière bénévole, sur commande, à leur rythme. <br>La volonté d'avoir un plus grand impact et de mettre plus de teuchs dans l'espace public nous pousse à vouloir produire plus, mais gare au croissantisme. Elargir la production ne doit jamais se faire au détriment de nos valeurs : écologie sans concession, travail pour le bien-être et solidarité bienveillante. <br>Une alternative à l'industrialisation ? Faire soi-même. Régulièrement, des ateliers sont organisés à la Trockette, le bar associatif de la Petite Rockette. Grâce à ces ateliers encadrés par Alexandra et Robin, tout le monde peut concevoir et fabriquer son propre ***teushirt***. Le bonus : repartir avec des bases de couture.
+***Teushirt*** est une organisation non lucrative. La production est assurée par Alexandra et Robin de manière bénévole, sur commande, à leur rythme. <br>La volonté d'avoir un plus grand impact et de mettre plus de teuchs dans l'espace public nous pousse à vouloir produire plus, mais gare au croissantisme. Elargir la production ne doit jamais se faire au détriment de nos valeurs : écologie sans concession, travail pour le bien-être et solidarité bienveillante. <br>Une alternative à l'industrialisation ? Faire soi-même. Régulièrement, des ateliers sont organisés à la Trockette, le bar associatif de la Petite Rockette. Grâce à ces ateliers encadrés par Alexandra et Robin, tout le monde peut concevoir et fabriquer son propre ***teushirt***. Le bonus : repartir avec des bases de couture.
 <br><br><br><br><br><br>
 ![Turfu]({static}/images/dithers/la-petite-rockette-ressourcerie.png#right)<br>
-<br><br>
 ##### Incubateur du turfu
 Ce projet ne pourrait avoir vu le jour sans La Petite Rockette. Depuis 2005, cette ressourcerie du 11ème arrondissement collecte, trie, revalorise et revend à des prix solidaires des tas de choses, dont des vêtements. Les matériaux pour les *teushirts* sont sélectionnés sur place, et la [Petite Rockette](http://www.lapetiterockette.org/) dispose de salles et de matériel de couture que nous pouvons utiliser pour produire les modèles et organiser les ateliers. Cette chaîne de production fait bouger les lignes : elle montre le rôle crucial des ressourceries en zone urbaine. Alternatives à l'incinérateur ou la décharge, elles deviennent via leurs ressources et leurs modèles de fonctionnement modernes et solidaires des pôles de créativité. Les ***teushirts*** en sont la preuve.
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -38,9 +44,11 @@ Le prix de vente des ***teushirts*** est fixé au cas par cas, selon les moyens 
 <br>
 <br>
 <br>
+<br>
+<br>
 ![Low-tech]({static}/images/dithers/site_lowtech.png#right)
 ##### Un site low-tech
-Aujourd'hui, vendre des vêtements, ça commence toujours par Instagram, et ça finit toujours par des sites web très energivores : animations dynamiques, photos en haute qualité, achat en ligne... Le traffic internet augmente de 50% par an, et contribue aujourd'hui à 12% de l'énergie consommée au niveau mondial. Personne ou presque ne sait comment un smartphone ou même internet fonctionnent, et les GAFAS orchestrent sans vergogne une "profilation" qui ferait frémir Orwell. <br>Bref, à l'heure où la mode s'émerveille devant l'essayage de vêtement en ligne via l'usage de la vidéo et de l'intelligence artificielle, nous voulons montrer qu'un autre internet est possible. Un internet low-tech, c'est à dire durable, accessible et adapté. <br>C'est pourquoi nous limitons l'usage d'Instagram à la communication évenentielle, et que nous avons construit un site web low-tech. Très léger, il est environ 150 fois moins lourd qu'un site de mode traditionnel. Il ne comporte pas d'affichage dynamique, très gourmand en ressource, et peut être consulté sur des vieilles machines, sans ADSL. Très facile à construire, il se base sur le tutoriel mis en open source par [low-tech magazine](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html). Adapté, il informe sur le projet et présente les modèles de ***teushirt*** via un design minimaliste et efficace. [Plus d'infos ici.]({filename}/pages/low-tech.md)
+Aujourd'hui, vendre des vêtements, ça commence toujours par Instagram, et ça finit toujours par des sites web très energivores : animations dynamiques, photos en haute qualité, analyse des données utilisateurs... Le traffic internet augmente de 50% par an, et contribue aujourd'hui à 12% de l'énergie consommée au niveau mondial. Personne ou presque ne sait comment un smartphone ou même internet fonctionnent, et les GAFAS orchestrent sans vergogne une "profilation" qui ferait frémir Orwell. <br>Bref, à l'heure où la mode s'émerveille devant l'essayage de vêtement en ligne via l'usage de la vidéo et de l'intelligence artificielle, nous voulons montrer qu'un autre internet est possible. Un internet low-tech, c'est à dire durable, accessible et adapté. <br><br>C'est pourquoi nous limitons l'usage d'Instagram à la communication évenentielle, et que nous avons construit un site web low-tech. Très léger, il est environ 150 fois moins lourd qu'un site de mode traditionnel. Il ne comporte pas d'affichage dynamique, très gourmand en ressource, et peut être consulté sur des vieilles machines, sans ADSL. Très facile à construire, il se base sur le tutoriel mis en open source par [low-tech magazine](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html). Adapté, il informe sur le projet et présente les modèles de ***teushirt*** via un design minimaliste et efficace. [Plus d'infos ici.]({filename}/pages/low-tech.md)
 
 
 #####[Je veux voir !]({static}/category/articles.html)
