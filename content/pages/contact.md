@@ -21,6 +21,6 @@ Demande-nous par mail quand se tient le prochain atelier : [teushirt@tutanota.co
 <br>Ou va voir les évènements de la Trockette sur le [site](http://www.lapetiterockette.org/cafe-atelier-2/) ou sur [facebook](https://fr-fr.facebook.com/latrockette).
 
 #####✂️ fais-le chez toi ! [>0€]
-[Télécharge les patrons]({static}/pdfs/patrons_en_construction.pdf), imprime-les et découpe toi-même les tissus.
+[Télécharge les patrons]({static}/pdfs/teushirt_patron_f.pdf), imprime-les et découpe toi-même les tissus.
 <br>Coud le tout, et envoie nous une photo !
 
